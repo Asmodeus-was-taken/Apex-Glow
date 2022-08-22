@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\driver">
+      <UniqueIdentifier>{b412f5b0-709f-48ca-84c2-36db2f977d9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu">
+      <UniqueIdentifier>{abbb3309-ce89-4f87-bd3b-c0749e0140b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\glob">
+      <UniqueIdentifier>{12a614b7-663f-4e18-891c-2d3f278ce686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu\drawing">
+      <UniqueIdentifier>{f4e277da-d768-4ed7-80ee-ba20128cb564}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cheat">
+      <UniqueIdentifier>{a573d60e-3f1d-477a-aa40-acb426e3bad4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lost Light External.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Overlay.cpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="drawing.cpp">
+      <Filter>Source Files\Menu\drawing</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include.hpp">
+      <Filter>Source Files\driver</Filter>
+    </ClInclude>
+    <ClInclude Include="driver.hpp">
+      <Filter>Source Files\driver</Filter>
+    </ClInclude>
+    <ClInclude Include="function.hpp">
+      <Filter>Source Files\driver</Filter>
+    </ClInclude>
+    <ClInclude Include="xor.hpp">
+      <Filter>Source Files\driver</Filter>
+    </ClInclude>
+    <ClInclude Include="glob.hpp">
+      <Filter>Source Files\glob</Filter>
+    </ClInclude>
+    <ClInclude Include="Overlay.hpp">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing.hpp">
+      <Filter>Source Files\Menu\drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Source Files\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="vec.h">
+      <Filter>Source Files\glob</Filter>
+    </ClInclude>
+    <ClInclude Include="Glow.h">
+      <Filter>Source Files\Cheat</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

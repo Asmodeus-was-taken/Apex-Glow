@@ -1,0 +1,164 @@
+﻿  Lost Light External.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(59,1): warning C4005: 'D2DERR_WRONG_STATE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58589): message : see previous definition of 'D2DERR_WRONG_STATE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(64,1): warning C4005: 'D2DERR_NOT_INITIALIZED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58598): message : see previous definition of 'D2DERR_NOT_INITIALIZED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(69,1): warning C4005: 'D2DERR_UNSUPPORTED_OPERATION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58607): message : see previous definition of 'D2DERR_UNSUPPORTED_OPERATION'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(74,1): warning C4005: 'D2DERR_SCANNER_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58616): message : see previous definition of 'D2DERR_SCANNER_FAILED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(79,1): warning C4005: 'D2DERR_SCREEN_ACCESS_DENIED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58625): message : see previous definition of 'D2DERR_SCREEN_ACCESS_DENIED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(84,1): warning C4005: 'D2DERR_DISPLAY_STATE_INVALID': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58634): message : see previous definition of 'D2DERR_DISPLAY_STATE_INVALID'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(89,1): warning C4005: 'D2DERR_ZERO_VECTOR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58643): message : see previous definition of 'D2DERR_ZERO_VECTOR'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(97,1): warning C4005: 'D2DERR_INTERNAL_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58652): message : see previous definition of 'D2DERR_INTERNAL_ERROR'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(103,1): warning C4005: 'D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58661): message : see previous definition of 'D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(108,1): warning C4005: 'D2DERR_INVALID_CALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58670): message : see previous definition of 'D2DERR_INVALID_CALL'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(113,1): warning C4005: 'D2DERR_NO_HARDWARE_DEVICE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58679): message : see previous definition of 'D2DERR_NO_HARDWARE_DEVICE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(119,1): warning C4005: 'D2DERR_RECREATE_TARGET': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58688): message : see previous definition of 'D2DERR_RECREATE_TARGET'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(124,1): warning C4005: 'D2DERR_TOO_MANY_SHADER_ELEMENTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58697): message : see previous definition of 'D2DERR_TOO_MANY_SHADER_ELEMENTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(129,1): warning C4005: 'D2DERR_SHADER_COMPILE_FAILED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58706): message : see previous definition of 'D2DERR_SHADER_COMPILE_FAILED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(134,1): warning C4005: 'D2DERR_MAX_TEXTURE_SIZE_EXCEEDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58715): message : see previous definition of 'D2DERR_MAX_TEXTURE_SIZE_EXCEEDED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(139,1): warning C4005: 'D2DERR_UNSUPPORTED_VERSION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58724): message : see previous definition of 'D2DERR_UNSUPPORTED_VERSION'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(144,1): warning C4005: 'D2DERR_BAD_NUMBER': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58733): message : see previous definition of 'D2DERR_BAD_NUMBER'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(149,1): warning C4005: 'D2DERR_WRONG_FACTORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58742): message : see previous definition of 'D2DERR_WRONG_FACTORY'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(154,1): warning C4005: 'D2DERR_LAYER_ALREADY_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58751): message : see previous definition of 'D2DERR_LAYER_ALREADY_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(159,1): warning C4005: 'D2DERR_POP_CALL_DID_NOT_MATCH_PUSH': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58760): message : see previous definition of 'D2DERR_POP_CALL_DID_NOT_MATCH_PUSH'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(164,1): warning C4005: 'D2DERR_WRONG_RESOURCE_DOMAIN': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58769): message : see previous definition of 'D2DERR_WRONG_RESOURCE_DOMAIN'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(169,1): warning C4005: 'D2DERR_PUSH_POP_UNBALANCED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58778): message : see previous definition of 'D2DERR_PUSH_POP_UNBALANCED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(174,1): warning C4005: 'D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58787): message : see previous definition of 'D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(179,1): warning C4005: 'D2DERR_INCOMPATIBLE_BRUSH_TYPES': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58796): message : see previous definition of 'D2DERR_INCOMPATIBLE_BRUSH_TYPES'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(184,1): warning C4005: 'D2DERR_WIN32_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58805): message : see previous definition of 'D2DERR_WIN32_ERROR'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(189,1): warning C4005: 'D2DERR_TARGET_NOT_GDI_COMPATIBLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58814): message : see previous definition of 'D2DERR_TARGET_NOT_GDI_COMPATIBLE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(194,1): warning C4005: 'D2DERR_TEXT_EFFECT_IS_WRONG_TYPE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58823): message : see previous definition of 'D2DERR_TEXT_EFFECT_IS_WRONG_TYPE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(201,1): warning C4005: 'D2DERR_TEXT_RENDERER_NOT_RELEASED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58832): message : see previous definition of 'D2DERR_TEXT_RENDERER_NOT_RELEASED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(206,1): warning C4005: 'D2DERR_EXCEEDS_MAX_BITMAP_SIZE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58841): message : see previous definition of 'D2DERR_EXCEEDS_MAX_BITMAP_SIZE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58010): message : see previous definition of 'DXGI_STATUS_OCCLUDED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58019): message : see previous definition of 'DXGI_STATUS_CLIPPED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58028): message : see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58037): message : see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58046): message : see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58055): message : see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58064): message : see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58079): message : see previous definition of 'DXGI_ERROR_INVALID_CALL'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58088): message : see previous definition of 'DXGI_ERROR_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58097): message : see previous definition of 'DXGI_ERROR_MORE_DATA'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58106): message : see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58115): message : see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58124): message : see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58134): message : see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58143): message : see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58153): message : see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58162): message : see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58172): message : see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58181): message : see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58190): message : see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58200): message : see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58209): message : see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58491): message : see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58500): message : see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4962,1): warning C4005: 'DWRITE_E_FILEFORMAT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(59008): message : see previous definition of 'DWRITE_E_FILEFORMAT'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4967,1): warning C4005: 'DWRITE_E_UNEXPECTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(59017): message : see previous definition of 'DWRITE_E_UNEXPECTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4972,1): warning C4005: 'DWRITE_E_NOFONT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(59026): message : see previous definition of 'DWRITE_E_NOFONT'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4978,1): warning C4005: 'DWRITE_E_FILENOTFOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(59035): message : see previous definition of 'DWRITE_E_FILENOTFOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4983,1): warning C4005: 'DWRITE_E_FILEACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(59044): message : see previous definition of 'DWRITE_E_FILEACCESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4988,1): warning C4005: 'DWRITE_E_FONTCOLLECTIONOBSOLETE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(59053): message : see previous definition of 'DWRITE_E_FONTCOLLECTIONOBSOLETE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4993,1): warning C4005: 'DWRITE_E_ALREADYREGISTERED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(59062): message : see previous definition of 'DWRITE_E_ALREADYREGISTERED'
+C:\Users\1\source\repos\Lost Light External\Lost Light External\Lost Light External.cpp(67,14): warning C4551: function call missing argument list
+C:\Users\1\source\repos\Lost Light External\Lost Light External\Lost Light External.cpp(85,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\1\source\repos\Lost Light External\Lost Light External\Lost Light External.cpp(86,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\1\source\repos\Lost Light External\Lost Light External\driver.hpp(135): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\1\source\repos\Lost Light External\Lost Light External\driver.hpp(135): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Lost Light External.vcxproj -> C:\Users\1\source\repos\Lost Light External\x64\Release\Lost Light External.exe
